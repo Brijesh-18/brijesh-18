@@ -2,7 +2,8 @@
 
 ### Hi there 👋, Brijesh Chauhan
 #### Coder | Programmer | Web Developer
-![Coder | Programmer | Web Developer](https://ajmendez.github.io/assets/helloworld_finished.png)
+![Coder | Programmer | Web Developer](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+
 
 I'm Brijesh Chauhan From Mumbai.
 I Am Persuing My Bachelors Degree In Computer Science From Nirmala Memorial Foundation Collage Of Commerce & Science. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work gratifying.
