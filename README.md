@@ -2,7 +2,7 @@
 
 ### Hi there 👋, Brijesh Chauhan
 #### Coder | Programmer | Web Developer
-![Coder | Programmer | Web Developer](https://repository-images.githubusercontent.com/340868117/f2b32a00-cc75-11eb-8bf8-1bf1990e8868)
+![Coder | Programmer | Web Developer](https://repository-images.githubusercontent.com/340868117/f2b32a00-cc75-11eb-8bf8-1bf1990e8868 style="width:150px;height:150px;")
 
 
 I'm Brijesh Chauhan From Mumbai.
