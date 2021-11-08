@@ -2,11 +2,9 @@
 
 ### Hi there 👋, Brijesh Chauhan
 #### Coder | Programmer | Web Developer
-![Coder | Programmer | Web Developer]
-<p>
-     <img src="https://repository-images.githubusercontent.com/340868117/f2b32a00-cc75-11eb-8bf8-1bf1990e8868" alt="Computer man" style="width:150px;height:150px;>
+![Coder | Programmer | Web Developer]<img src="https://repository-images.githubusercontent.com/340868117/f2b32a00-cc75-11eb-8bf8-1bf1990e8868" alt="Computer man" style="width:150px;height:150px;>
 
-</p>
+
 
 I'm Brijesh Chauhan From Mumbai.
 I Am Persuing My Bachelors Degree In Computer Science From Nirmala Memorial Foundation Collage Of Commerce & Science. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work gratifying.
