@@ -21,5 +21,7 @@ I Am Persuing My Bachelors Degree In Computer Science From Nirmala Memorial Foun
 <a href="https://github.com/Brijesh-18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/Brijesh-18" height="30" width="40" /></a>
 <a href="/https://chauhanbrijesh.ml/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://chauhanbrijesh.ml/" height="30" width="40" /></a>
 </p>
-
+<p>
+  <img src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif" alt="Computer man" style="width:48px;height:48px;" align="right">
+</p>
 
