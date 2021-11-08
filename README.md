@@ -18,6 +18,10 @@ I Am Persuing My Bachelors Degree In Computer Science From Nirmala Memorial Foun
 <a href="https://dev.to/https://dev.to/brijesh18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/brijesh18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/brijesh-chauhan-92654913a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brijesh-chauhan-92654913a/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/amit_btw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amit_btw/" height="30" width="40" /></a>
+  
+<a href="https://github.com/Brijesh-18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/Brijesh-18" height="30" width="40" /></a>
+ 
+  
 </p>
 
 
