@@ -4,7 +4,8 @@
 #### Coder | Programmer | Web Developer
 ![Coder | Programmer | Web Developer]
 <p>
-   <img src=" <img src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif" alt="Computer man" style="width:250px;height:300px;" align="left">" alt="Computer man" style="width:150px;height:150px;" align="left">
+     <img src="https://repository-images.githubusercontent.com/340868117/f2b32a00-cc75-11eb-8bf8-1bf1990e8868" alt="Computer man" style="width:150px;height:150px;>
+
 </p>
 
 I'm Brijesh Chauhan From Mumbai.
